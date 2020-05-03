@@ -1,0 +1,1 @@
+export const brands = ["Hyundai","Maruti Suzuki","Tata","Mahindra","Ford"];
