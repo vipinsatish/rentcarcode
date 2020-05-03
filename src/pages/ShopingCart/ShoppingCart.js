@@ -29,7 +29,7 @@ const ShoppingCart = (props) => {
                         </div>
                     </div>
                 </div>
-                <h1 >To rent this/any car click the "contact us" below</h1>
+                <h1 >To rent this/any car go to homepage or click the "contact us" below</h1>
                 
             </>
         
